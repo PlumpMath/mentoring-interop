@@ -1,4 +1,4 @@
-﻿namespace Task1.Lib
+﻿namespace Lib
 {
     public struct SystemPowerInformation
     {

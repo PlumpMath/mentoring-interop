@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Task1.Lib
+namespace Lib
 {
     public static class PowerManager
     {

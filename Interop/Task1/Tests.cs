@@ -1,5 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Task1.Lib;
+﻿using Lib;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Task1
 {
